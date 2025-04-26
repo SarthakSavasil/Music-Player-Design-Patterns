@@ -1,0 +1,31 @@
+{
+  "Pay": [
+    {
+      "synonym": "Make a payment",
+      "use": "Formal transactions, billing",
+      "dontUse": "Casual peer-to-peer transfers"
+    },
+    {
+      "synonym": "Send money",
+      "use": "Peer-to-peer apps, casual flow",
+      "dontUse": "When referring to bills or services"
+    },
+    {
+      "synonym": "Settle dues",
+      "use": "When clearing pending balances",
+      "dontUse": "When initiating real-time payments"
+    }
+  ],
+  "Submit": [
+    {
+      "synonym": "Send",
+      "use": "Quick form submissions, messages",
+      "dontUse": "Official applications or reports"
+    },
+    {
+      "synonym": "Upload",
+      "use": "When a file or document is involved",
+      "dontUse": "Text-only input"
+    }
+  ]
+}
